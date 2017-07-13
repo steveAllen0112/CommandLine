@@ -89,6 +89,16 @@ It used to be the ONLY way, for screen-based systems.
 
 ---
 
+## Security Note
+
+No matter what machine you're commanding, you can only do what the User you are logged in as can do.
+
++++
+
+However, if you can "elevate your privileges", through a command like `sudo` for example, you can do more.
+
+---
+
 # FileMaker
 
 FileMaker has a Command Line Interface (CLI) available for administering Server.
@@ -101,5 +111,28 @@ FileMaker Server Command Line Reference
 
 http://help.filemaker.com/app/answers/detail/a_id/14167/~/filemaker-server-command-line-reference
 
+---
+
+# Web Development
+
 +++
 
+## PHP
+
+`php -S localhost:8000`
+
++++
+
+## Git/Version Control
+
++++
+
+## Others
+
+Most of the tooling you'll find in modern web development is Command Line driven.
+
+---
+
+# Conclusion
+
+## Learn Command Line!
