@@ -33,7 +33,7 @@ It's a way of telling a computer what to do.
 
 +++
 
-(It used to be the ONLY way, for screen-based systems.  Punch cards will not be discussed.)
+It used to be the ONLY way, for screen-based systems.
 
 ---
 
